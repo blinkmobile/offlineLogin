@@ -1,0 +1,11 @@
+{
+  "name": "Authentication",
+  "version": "1.0.0",
+  "description": "BMP.Authentication Library",
+  "main": "authentication.js",
+  "devDependencies": {
+    "requirejs": "^2.1.15",
+    "sjcl": "^1.0.2",
+    "tape": "^3.4.0"
+  }
+}
