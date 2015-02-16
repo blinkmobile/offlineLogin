@@ -1,5 +1,5 @@
 {
-  "name": "Authentication",
+  "name": "offlineLogin",
   "version": "1.0.0",
   "description": "BMP.Authentication Library",
   "main": "authentication.js",
