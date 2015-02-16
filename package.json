@@ -1,11 +1,24 @@
 {
   "name": "offlineLogin",
   "version": "1.0.0",
+  "private": true,
   "description": "BMP.Authentication Library",
+  "author": "Blink Mobile",
+  "homepage": "https://github.com/blinkmobile/offlineLogin",
   "main": "authentication.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/npm/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blinkmobile/offlineLogin/issues"
+  },
+  "dependencies": {},
   "devDependencies": {
     "requirejs": "^2.1.15",
     "sjcl": "^1.0.2",
     "tape": "^3.4.0"
-  }
+  },
+  "license": "BSD-3-Clause",
+  "keywords": ["offline", "login"]
 }
